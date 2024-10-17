@@ -12,7 +12,7 @@
       "name": "하류 픽셀몬",
       "description": "haryuryuPixelmon Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/yongroro/haryuryuPixelmon-distro/main/serverimg.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "haryuryu.kro.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -434,6 +434,17 @@
             "size": 7720153,
             "url": "https://raw.githubusercontent.com/yongroro/haryuryuPixelmon-distro/main/servers/haryuryuPixelmon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.22.jar",
             "MD5": "9d1ecaa3e01a3542d67b9e430699798a"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5581,
+            "url": "https://raw.githubusercontent.com/yongroro/haryuryuPixelmon-distro/main/servers/haryuryuPixelmon-1.16.5/files/options.txt",
+            "MD5": "8d73b92d356f8390b7ce05b43cf4838a",
+            "path": "options.txt"
           }
         }
       ]
