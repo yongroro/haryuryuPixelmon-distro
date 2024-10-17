@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/helios/haryuryuPixelmon/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "하류 픽셀몬",
+    "description": "haryuryuPixelmon Running Minecraft 1.16.5 (Forge v36.2.34)",
+    "icon": "https://raw.githubusercontent.com/yongroro/haryuryuPixelmon-distro/main/serverimg.png",
+    "address": "haryuryu.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.34"
+  },
+  "untrackedFiles": []
+}
