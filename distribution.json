@@ -12,7 +12,7 @@
       "name": "하류 픽셀몬",
       "description": "haryuryuPixelmon Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/yongroro/haryuryuPixelmon-distro/main/serverimg.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "haryuryu.kro.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -443,7 +443,6 @@
           "artifact": {
             "size": 5581,
             "url": "https://raw.githubusercontent.com/yongroro/haryuryuPixelmon-distro/main/servers/haryuryuPixelmon-1.16.5/files/options.txt",
-            "MD5": "8d73b92d356f8390b7ce05b43cf4838a",
             "path": "options.txt"
           }
         }
