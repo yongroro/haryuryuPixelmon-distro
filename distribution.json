@@ -12,7 +12,7 @@
       "name": "하류 픽셀몬",
       "description": "haryuryuPixelmon Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/yongroro/haryuryuPixelmon-distro/main/serverimg.png",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "address": "haryuryu.kro.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -384,6 +384,16 @@
             "size": 6694200,
             "url": "https://raw.githubusercontent.com/yongroro/haryuryuPixelmon-distro/main/servers/haryuryuPixelmon-1.16.5/forgemods/required/journeymap-1.16.5-5.8.6.jar",
             "MD5": "60fc57f5aace9a4c92896f4ced0c60f0"
+          }
+        },
+        {
+          "id": "dareharu.haru:haru:0.47.1-SNAPSHOT@jar",
+          "name": "Haru Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2608793,
+            "url": "https://raw.githubusercontent.com/yongroro/haryuryuPixelmon-distro/main/servers/haryuryuPixelmon-1.16.5/forgemods/required/HaruMod-0.47.1-SNAPSHOT-unsigned%20(1).jar",
+            "MD5": "5766ab34d4d4fad9d34be3667f727521"
           }
         },
         {
